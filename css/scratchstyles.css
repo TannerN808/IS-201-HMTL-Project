@@ -1,0 +1,32 @@
+.banner {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c4/Waipio_Valley%2C_Big_Island.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    line-height: 0.3;
+    font-family:'Times New Roman', Times, serif;
+    }
+
+.banner h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 10px;
+    text-shadow: 2px 2px 4px #000;
+    }
+
+body{
+    background-color:antiquewhite;
+}
+
+#about-me, a{
+    color:blue;
+}
+
+.tableau{
+    margin: 0%;
+}
